@@ -1,0 +1,36 @@
+body{
+background-image: url(image/загрузка.jpg);
+background-repeat: no-repeat;
+background-size:cover;
+}
+img{
+    display: block;
+    margin: auto;
+   width: 250px;
+   height: 250px;
+   border: 5px solid black;
+   border-radius: 100%;
+}
+h1{
+    color: #ede7e7;
+    font-family: 'Crimson Text', serif;
+    font-size: 45px;
+}
+h2{
+    color: #f8efef;
+font-family: 'Titillium Web', sans-serif;
+    font-size: 30px;
+}
+li{
+    color: #fdfffb;
+    
+}
+a{
+    color: #fdf9f9;
+    text-decoration: none;
+    
+}
+p{
+    color: #f8f3f3;
+}
+
